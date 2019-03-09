@@ -14,7 +14,7 @@ Reservator Project Branch for LaTeX source files.
 
 ------
 
-- [Project Branch for Epub](https://github.com/tanpero/Reservator-)
+- [Project Branch for Epub](https://github.com/tanpero/Reservator-Epub)
 - [Project Branch for HTML](https://github.com/tanpero/Reservator-HTML)
 - [Project Branch for Kindle](https://github.com/tanpero/Reservator-Kindle)
 - [Project Branch for LaTeX](https://github.com/tanpero/Reservator-LaTeX)
